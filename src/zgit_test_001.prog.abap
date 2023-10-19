@@ -6,3 +6,4 @@
 REPORT ZGIT_TEST_001.
 
 WRITE: 'test git'.
+WRITE: / 'CR started'.
