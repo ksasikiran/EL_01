@@ -6,4 +6,8 @@
 REPORT ZGIT_TEST_001.
 
 WRITE: 'test git'.
+<<<<<<< HEAD
 WRITE: / 'CR started'.
+=======
+WRITE: / 'PRD issue 01'.
+>>>>>>> GCS_001
