@@ -6,3 +6,4 @@
 REPORT ZPWENHN_TEST_03.
 
 WRITE: 'No Enhancement'.
+WrRITE: 'Enhancement Check'.
